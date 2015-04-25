@@ -9,3 +9,8 @@ This is an application done using the Lynda.com course on data-driven Angular.js
 5. Install gulp.js via the Mac terminal or Gitbash on a PC `> npm install -g gulp`
 5. Run the Gulp command `> gulp`
 6. Fire up your browser at `http://localhost:8080`
+
+AngularFire:
+------
+Be sure to check the Migration guide if you are coming from AngularFire 0.9.X
+https://www.firebase.com/docs/web/libraries/angular/migration-guides.html
